@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://example.com/cover001.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Aurora Sky",
+      "author_img": "https://example.com/authors/aurorasky.jpg",
+      "posted_date": "2024-03-29",
+      "reading_time": 45,
+      "hashtags": ["fiction", "fantasy", "adventure"]
+    },
+    {
+      "id": "002",
+      "cover": "https://example.com/cover002.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Xander Drake",
+      "author_img": "https://example.com/authors/xanderdrake.jpg",
+      "posted_date": "2024-03-28",
+      "reading_time": 60,
+      "hashtags": ["sciencefiction", "space", "exploration"]
+    },
+    {
+      "id": "003",
+      "cover": "https://example.com/cover003.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Luna Nightingale",
+      "author_img": "https://example.com/authors/lunanightingale.jpg",
+      "posted_date": "2024-03-27",
+      "reading_time": 30,
+      "hashtags": ["mystery", "thriller", "suspense"]
+    },
+    {
+      "id": "004",
+      "cover": "https://example.com/cover004.jpg",
+      "title": "Ripples of Destiny",
+      "author": "Elijah Storm",
+      "author_img": "https://example.com/authors/elijahstorm.jpg",
+      "posted_date": "2024-03-26",
+      "reading_time": 50,
+      "hashtags": ["romance", "drama", "destiny"]
+    },
+    {
+      "id": "005",
+      "cover": "https://example.com/cover005.jpg",
+      "title": "Sands of Time",
+      "author": "Aria Sands",
+      "author_img": "https://example.com/authors/ariasands.jpg",
+      "posted_date": "2024-03-25",
+      "reading_time": 40,
+      "hashtags": ["historical", "fiction", "time"]
+    }
+  ]
+  
