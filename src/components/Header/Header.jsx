@@ -1,9 +1,10 @@
-
+import profile from '../../assets/images/profile.png';
 const Header = () => {
     return (
-        <div>
-             <h2 className='text-6xl bg-red-400'>Knowledge Cafe</h2>
-        </div>
+        <header className='flex justify-between items-center p-4 mx-4 border-b-2'>
+             <h2 className='text-4xl font-bold'>Knowledge Cafe</h2>
+             <img src={profile} alt="" srcset="" />
+        </header>
     );
 };
 
